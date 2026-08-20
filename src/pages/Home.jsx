@@ -149,7 +149,7 @@ export default function Home() {
             <SectionHeading
               eyebrow="Our Products"
               title="The Shaheen portfolio"
-              description="A&G Group's own primary consumer product brand, built around quality rice and staple food products."
+              description="A&G Group's own primary consumer product brand, built around quality rice, staple foods, and tea."
             />
             <Button to="/products" variant="outline" className="shrink-0">
               View All Products

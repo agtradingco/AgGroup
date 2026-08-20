@@ -11,14 +11,14 @@ export default function Products() {
   return (
     <>
       <Seo
-        title="Shaheen Products — Rice & Atta"
-        description="Explore the Shaheen product portfolio — Shaheen Silk Rice, Shaheen Sella Rice, Shaheen Premium Range Basmati Rice, and Shaheen Premium Chakki Aata from A&G Group in Jammu & Kashmir."
+        title="Shaheen Products — Rice, Atta & Tea"
+        description="Explore the Shaheen product portfolio — Shaheen Silk Rice, Shaheen Sella Rice, Shaheen Premium Range Basmati Rice, Shaheen Premium Chakki Aata, Shaheen Namkeen Tea, and Shaheen CTC Royal Tea from A&G Group in Jammu & Kashmir."
         path="/products"
       />
       <PageHero
         eyebrow="Our Products"
         title="The Shaheen portfolio"
-        description="A&G Group's own primary consumer product brand, built around rice and staple food products."
+        description="A&G Group's own primary consumer product brand, built around rice, staple foods, and tea."
       />
 
       {/* Product grid */}
@@ -51,14 +51,14 @@ export default function Products() {
               <SectionHeading
                 eyebrow="Quality & Care"
                 title="A portfolio built to grow"
-                description="The Shaheen portfolio represents the group's own product development — from premium rice varieties to staple food products."
+                description="The Shaheen portfolio represents the group's own product development — from premium rice varieties to staple foods and tea."
               />
               <div className="mt-6 space-y-4">
                 <p className="leading-relaxed text-ink-600">
                   The Shaheen range represents the group's commitment to
                   quality and consistency — from carefully selected premium rice
-                  varieties to trusted staple foods, every product is built
-                  around the same standard of reliability.
+                  varieties to trusted staple foods and teas, every product is
+                  built around the same standard of reliability.
                 </p>
                 <p className="leading-relaxed text-ink-600">
                   Distribution is supported across Jammu & Kashmir through

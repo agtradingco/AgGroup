@@ -39,10 +39,30 @@ export const products = [
     image: '/images/products/chakki-aata.jpeg',
     alt: 'Shaheen Premium Chakki Aata product',
   },
+  {
+    id: 'shaheen-namkeen-tea',
+    name: 'Shaheen Namkeen Tea',
+    brand: 'Shaheen',
+    category: 'Tea',
+    description:
+      'A Kashmiri Noon Chai from the Shaheen portfolio, bringing the region\u2019s traditional salted pink tea to households.',
+    image: '/images/products/noon-chai.jpeg',
+    alt: 'Shaheen Namkeen Tea (Kashmiri Noon Chai) product',
+  },
+  {
+    id: 'shaheen-ctc-royal-tea',
+    name: 'Shaheen CTC Royal Tea',
+    brand: 'Shaheen',
+    category: 'Tea',
+    description:
+      'A premium CTC tea from the Shaheen portfolio, delivering the robust and strong brew of classic Lipton-style black tea.',
+    image: '/images/products/royal-tea.jpeg',
+    alt: 'Shaheen CTC Royal Tea product',
+  },
 ]
 
 export const productBrand = {
   name: 'Shaheen',
   description:
-    'The group\u2019s own primary consumer product portfolio, built around rice and staple food products.',
+    'The group\u2019s own primary consumer product portfolio, built around rice, staple foods, and tea.',
 }
