@@ -49,10 +49,10 @@ export const company = {
     instagram: 'https://instagram.com/aggroupofcompanies_',
   },
   stats: [
-    { value: '250+', label: 'Retailers Served' },
-    { value: '100+', label: 'Wholesalers' },
-    { value: '2 Lakh+', label: 'Farmers Served' },
-    { value: '100K+', label: 'Tons Supplied' },
+    { value: '25K+', label: 'Retailers Served' },
+    { value: '7K+', label: 'Wholesalers' },
+    { value: '6.5 Lakh+', label: 'Farmers Served' },
+    { value: '200K+', label: 'Tons Supplied' },
   ],
   testimonials: [
     {
